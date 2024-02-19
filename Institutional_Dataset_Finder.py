@@ -471,9 +471,9 @@ def main():
 
     ror = "https://ror.org/00cv9y106"
     osfID = "ugent"
-    osf_ACCESS_TOKEN = '9QGn646ZhdssiTNmoUIXPCAz2e7pieVuiyAXCGyI4cglapZEj8gwIqeDqHSS7kvkf3ErHJ' # A new access token can be acquired from the OSF webpage
+    osf_ACCESS_TOKEN = '' 
     zenodoSearchTerms = ['Ghent', 'UGent', 'Ghent University']
-    zenodo_ACCESS_TOKEN = 'tbtGeXbkuQbI9qFIh4NezcQxdur7GT8tPg0qyuO2IYj3MeBH72J0igw48VUt' # This is the Access Token assigned to Kevin Leonard
+    zenodo_ACCESS_TOKEN = ''
     pangaeaSearchTerms = ['gent', 'ugent', 'ghent']
     figshareSearchTerms = ['ugent', 'ghent']
     GBIF_OrgID = ['2089ce96-4fb5-4a20-999c-3ccf45a27a4d']
