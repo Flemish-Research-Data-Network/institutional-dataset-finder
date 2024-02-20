@@ -1,5 +1,5 @@
 certifi==2021.10.8
-pangaeapy==1.0.4
+pangaeapy==1.0.16
 python_dateutil==2.8.2
 ratelimit==2.2.1
 requests==2.26.0
