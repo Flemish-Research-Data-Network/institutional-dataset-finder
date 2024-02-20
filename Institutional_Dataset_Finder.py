@@ -13,7 +13,6 @@ import csv
 import requests
 import json
 from ratelimit import limits, RateLimitException, sleep_and_retry
-from bs4 import BeautifulSoup
 from requests.structures import CaseInsensitiveDict
 
 
